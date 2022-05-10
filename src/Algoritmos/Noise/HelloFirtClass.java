@@ -1,3 +1,15 @@
+
+// ----------------------------------------------------------------------------------------------------
+// PROGRAMA : CREACION DE LIBRERIA EN PROCESSING
+// AUTOR    : SIMON
+// FECHA    : 10 MAY 2022
+// DESCRIP. : USAR ESTA PLANTILLA CONFIGURADA EN MAC 
+// ----------------------------------------------------------------------------------------------------
+
+
+
+
+
 package Algoritmos.Noise;
 
 import processing.core.*;
