@@ -6,13 +6,16 @@
 // DESCRIP. : USAR ESTA PLANTILLA CONFIGURADA EN MAC 
 // ----------------------------------------------------------------------------------------------------
 
-
-
+/*
+   1. USAR GitHub , crear nuevo repositorio en escritorio
+   2. Copiar archivos de la plantilla OpenSimpleNoise-for-Processing a nuevo repositorio
+   3. Usar proyecto en eclipse 
+*/
 
 
 package Algoritmos.Noise;
 
-import processing.core.*;
+import processing.core.*; 
 
 /**
  * This is a template class and can be used to start a new processing Library.
